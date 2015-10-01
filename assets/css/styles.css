@@ -1,0 +1,31 @@
+.normal {
+	font-family: orbitron;
+	font-weight: 400;
+	text-align: center;
+	font-style: normal;
+	font-size: 75px;
+}
+
+.medium {
+	font-family: orbitron;
+	font-weight: 500;
+	text-align: center;
+	font-style: normal;
+	font-size: 75px;
+}
+
+.bold {
+	font-family: orbitron;
+	font-weight: 700;
+	text-align: center;
+	font-style: normal;
+	font-size: 75px;
+}
+
+.ultra-bold {
+	font-family: orbitron;
+	font-weight: 900;
+	text-align: center;
+	font-style: normal;
+	font-size: 75px;
+}
